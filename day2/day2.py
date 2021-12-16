@@ -18,11 +18,6 @@ for x in content:
         aim += int(x[-1:])
     elif x.startswith('up'):
         aim -= int(x[-1:])
-        
-    
-                     
+                      
 print(forward * depth)
-
-
-1765720035
-1181700834393
+#1765720035
